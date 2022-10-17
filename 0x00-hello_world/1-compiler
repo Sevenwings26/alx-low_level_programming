@@ -1,2 +1,1 @@
-#!/bin/bah
 gcc -c $CFILE -o
